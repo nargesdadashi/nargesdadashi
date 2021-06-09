@@ -30,6 +30,6 @@ BSc of Computer Engineering from K.N.Toosi University of Technology
 
 _Sep, 2013 - Dec, 2017_
 
-## Skils
+## Skills
 
 `Javascript`, `React`, `TypeScript`, `Next.js`, `Redux.js`, `Node.js`, `Git`, `HTML`, `CSS`, `SCSS`, `Python`, `SQL`
