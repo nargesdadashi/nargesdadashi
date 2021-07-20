@@ -10,6 +10,7 @@ I've been creating web applications using Javascript and specially with React.JS
 
 - Movie Watchlist App: [Github](https://github.com/nargesdadashi/movie-app) - [Demo](https://movieapp-c1e58.web.app/)
 - A Simple Weather App: [Github](https://github.com/nargesdadashi/nextJs-weather-app)
+- Cocktail Recipe App: [Github](https://github.com/nargesdadashi/cocktail-recipe-app) - [Demo](https://cocktail-recipe-app-d053e.web.app/)
 
 📫 Feel free to send me a message on:
 
