@@ -4,7 +4,7 @@
 
 **📍 Dublin, Ireland** | **✉️ [nargesdadashi@gmail.com](mailto:/nargesdadashi@gmail.com)**
 
-[Download CV in PDF](https://raw.githubusercontent.com/nargesdadashi/nargesdadashi/main/resume/narges-dadshi-resume.pdf)
+[Download CV in PDF](https://raw.githubusercontent.com/nargesdadashi/nargesdadashi/main/resume/narges-dadashi-resume.pdf)
 
 Front-end developer, enthusiastic about making high-quality web applications and websites. Experienced in developing and implementing web applications using modern Javascript frameworks and standards. Able to effectively self-manage during projects, as well as collaborate as part of a productive team.
 
