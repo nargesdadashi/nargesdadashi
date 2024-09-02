@@ -14,7 +14,7 @@ Front-end developer, enthusiastic about making high-quality web applications and
 
 **Sahand School Portal**:
 
-_Frontend Developer_ | _Jun, 2018 - Dec, 2018_
+_Frontend Developer_ | _Jun, 2018 - Apr, 2020_
 
 Sahand EDU is a portal to provide a platform for communication between headmaster, teachers and parents easier. I developed several features, components and pages for the portal using React with Material UI.
 
